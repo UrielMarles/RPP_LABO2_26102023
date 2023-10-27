@@ -1,0 +1,11 @@
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\UTN\CUATRIDOS\RECUPPLABOURIEL\Entidades\obj\Debug\net6.0\ref\Entidades.dll
