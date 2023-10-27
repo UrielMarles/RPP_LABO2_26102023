@@ -54,10 +54,11 @@ namespace RECUPPLABOURIEL
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             int v = lstVehiculos.SelectedIndex;
-
-            Vehiculo vehiculo = this.fabrica.Vehiculos[v];
-
-            this.fabrica -= vehiculo;
+            if (v >= 0)
+            {
+                Vehiculo vehiculo = this.fabrica.Vehiculos[v];
+                this.fabrica -= vehiculo;
+            }
             Refrescar();
         }
     }
